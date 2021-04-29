@@ -4,11 +4,8 @@
 </h1>
 
 <p align='center'>
-  Currently I work as a iOS Developer at IBM.
+  Currently I work as an iOS Developer at IBM, using Swift and RxSwift.
 </p>
-
-- I'm currently working with Swift and RxSwift.
-
 
 ### Contacts ＠
 
@@ -22,6 +19,10 @@
 [![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/en/)
 
 ### Operating Systems & Tools
+
+[![MacOS](https://img.shields.io/badge/MacOS-%23555555?style=flat&logo=macos&logoColor=white)](https://www.apple.com/macos/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-%23555555?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Windows](https://img.shields.io/badge/Windows-%23555555?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
