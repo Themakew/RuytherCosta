@@ -1,19 +1,35 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
+<h1 align='center'>
+  Hi 🙋‍♂️, I'm Ruyther Costa 👨‍💻
+</h1>
+
+<p align='center'>
+  Currently I work as a iOS Developer at IBM.
+</p>
+
+- I'm currently working with Swift and RxSwift.
 
 
-My name is Ruyther Parente da Costa. I work as a iOS Developer at IBM.
+### Contacts ＠
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Themakew&repo=Themakew&countColorcountColor)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ruy_fusion@hotmail.com.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ruyther-parente-da-costa-3781136a/?locale=en_US)
 
 ### Languages & Tools 🛠  
 
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+[![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/en/)
+
+### Operating Systems & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
+
+![XCode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Themakew&layout=compact&count_private=true)
-
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Themakew&count_private=true&show_icons=true)
-
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Themakew&hide_border=true)
