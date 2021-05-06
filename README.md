@@ -12,13 +12,13 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ruy_fusion@hotmail.com.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ruyther-parente-da-costa-3781136a/?locale=en_US)
 
-### Languages & Tools 🛠  
+### Programming Languages 👨🏻‍💻
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 [![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/en/)
 
-### Operating Systems & Tools
+### Operating Systems & Tools 🛠 
 
 [![MacOS](https://img.shields.io/badge/MacOS-%23555555?style=flat&logo=macos&logoColor=white)](https://www.apple.com/macos/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-%23555555?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
