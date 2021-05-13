@@ -32,5 +32,20 @@
 
 ### Analytics ⚙️
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Themakew&count_private=true&show_icons=true)
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Themakew&hide_border=true)
+<p>
+  <a href="https://github.com/Themakew/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=Themakew&count_private=true&show_icons=true&custom_title=Ruyther's%20Github%20Stats&hide=issues&theme=vision-friendly-dark"
+    />
+  </a>
+  
+  <a href="https://github.com/Themakew/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Themakew&hide_border=true&theme=vision-friendly-dark"
+    />
+  </a>
+</p>
