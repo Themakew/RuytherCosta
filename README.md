@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  Currently I work as an iOS Developer at IBM, using Swift and RxSwift.
+  Currently I work as an iOS Developer at ZUP Innovation, using Swift.
 </p>
 
 ### Contacts ＠
