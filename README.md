@@ -16,8 +16,6 @@
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-[![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/en/)
-
 ### Operating Systems & Tools 🛠 
 
 [![MacOS](https://img.shields.io/badge/MacOS-%23555555?style=flat&logo=macos&logoColor=white)](https://www.apple.com/macos/)
