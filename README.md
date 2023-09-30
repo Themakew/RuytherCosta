@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  Currently, I work as an iOS Software Engineer at DATUM IT, using Swift.
+  I am an iOS Software Engineer.
 </p>
 
 ### Contacts ＠
