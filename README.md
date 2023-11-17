@@ -16,7 +16,7 @@ Passionate about technology and coding, I'm an iOS Software Engineer with extens
 
 📫 **How to reach me:**
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ruyther/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ruyther)
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:ruy_fusion@hotmail.com.com)
 
 ---
