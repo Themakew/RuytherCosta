@@ -26,8 +26,6 @@ Passionate about technology and coding, I'm an iOS Software Engineer with extens
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![XCode](https://img.shields.io/badge/-Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
-![Atom](https://img.shields.io/badge/-Atom-66595C?style=flat&logo=Atom&logoColor=white)
 
 ---
 
@@ -65,7 +63,7 @@ Passionate about technology and coding, I'm an iOS Software Engineer with extens
 
 🛠 **Tech I'm currently working with:** Swift, Git, XCode...
 
-🚀 **Learning all about:** SwiftUI, DSA, Mobile App Development...
+🚀 **Learning all about:** SwiftUI, DSA, FullStack Development...
 
 💬 **Ask me about:** Anything tech-related, I'm happy to help!
 
